@@ -1,0 +1,5 @@
+{
+  "name": "AI Image & Video Studio",
+  "description": "An AI-powered application to edit images and generate videos from them. Upload an image, provide a prompt, and let the AI bring your creative vision to life.",
+  "requestFramePermissions": []
+}
